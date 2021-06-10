@@ -1,0 +1,29 @@
+{
+  "name": "davidduarte.github.io",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D4v1dD4art3/davidduarte.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D4v1dD4art3/davidduarte.github.io/issues"
+  },
+  "homepage": "https://github.com/D4v1dD4art3/davidduarte.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.8",
+    "mongoose": "^5.12.13",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
